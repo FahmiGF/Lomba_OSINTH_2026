@@ -1,2 +1,2 @@
-# Teknologi-Berkembang-
-Mata Kuliah Teknologi Berkembang - Computer Vision
+Lomba OSINTH 2026 UNPAD
+
